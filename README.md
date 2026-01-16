@@ -18,7 +18,7 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 
 **Roles**
 
-* 💼 Intern at CyberDiplomat*
+* 💼 Intern at CyberDiplomat
 * 🚀 Vice President — *Full Stack Development Club & E-Cell GCEM*
 * 🎓 Campus Ambassador — *E-Cell IIT Bombay, Pravega IISc Bangalore, EDC IIT Delhi*
 
