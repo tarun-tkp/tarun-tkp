@@ -7,7 +7,7 @@
 <!-- Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer+%26+Analyst;Hackathon+Enthusiast;Building+Projects+%26+Portfolio;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Analyst;Hackathon+Enthusiast;Open Source Contributor;Building+Projects+%26+Portfolio;Open+to+Internships+%26+Opportunities" />
 </p>
 
 ---
@@ -23,6 +23,39 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 * 🎓 Campus Ambassador — *E-Cell IIT Bombay, Pravega IISc Bangalore, EDC IIT Delhi*
 
 ---
+
+
+<!-- Coding Loop Animation -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656983-7b3e6e2c-2f71-4a67-9b9a-8f3d9a7b4d47.gif" width="420"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-7c6d0f3f-0a4f-4b3d-bc4a-0f9c2c5f1a2e.gif" width="420"/>
+</p>
+
+<!-- Subtle Section Separator -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- AI / Tech Pulse -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897077-3f8b1c2d-3f44-4a0f-9a9f-bd6f1f6e7f3b.gif" width="500"/>
+</p>
+
+<!-- Tech Animations -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="700" />
+</p>
 
 ## 🧰 Tech Stack
 
