@@ -61,20 +61,20 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 
 ### Featured
 
-* **The Great Bengaluru Hackathon**
-  *Project:* Smart Peak Hour Demand Balancer for Auto Services (Namma Yatri)
-  *Problem:* Ride denials & peak-hour demand imbalance
-  *Role:* Front-End Developer
+* **The Great Bengaluru Hackathon**<BR>
+  *Project:* Smart Peak Hour Demand Balancer for Auto Services (Namma Yatri)<br>
+  *Problem:* Ride denials & peak-hour demand imbalance<br>
+  *Role:* Front-End Developer<BR>
   *Tech:* HTML, Tailwind CSS, JavaScript
 
-* **The Social Hackathon (CMRIT)**
-  *Project:* Smart Pothole Reporting & Management System
-  *Role:* Full Stack Developer & Analyst
+* **The Social Hackathon (CMRIT)**<BR>
+  *Project:* Smart Pothole Reporting & Management System<br>
+  *Role:* Full Stack Developer & Analyst<br>
   *Tech:* HTML, CSS, JS, React, Google Maps API, Node.js, Express, MongoDB, Excel, Seaborn
 
-* **Innovatex (Presidency University)**
-  *Project:* Health Analysis Chatbot
-  *Role:* Front-End Developer
+* **Innovatex (Presidency University)**<BR>
+  *Project:* Health Analysis Chatbot<br>
+  *Role:* Front-End Developer<br>
   *Tech:* HTML, CSS, JavaScript, React
 
 <details>
@@ -105,7 +105,7 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarunkumarpathak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarunkumarpathak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="https://www.instagram.com/_tarunnx?igsh=MWhjeHpjc2l3ZHJqdw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
