@@ -7,7 +7,7 @@
 <!-- Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Analyst;Hackathon+Enthusiast;Open Source Contributor;Building+Projects+%26+Portfolio;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Analyst;Hackathon+Enthusiast;Building+Projects+%26+Portfolio;Open+to+Internships+%26+Opportunities" />
 </p>
 
 ---
